@@ -1,4 +1,4 @@
-# modelmadness
+# Model Madness
 
 An sklearn breast cancer dataset was use to compare and contrast 10 differest machine learning models and their efficacy for binary classification on this specific dataset. Below is a summary of the findings.
 
